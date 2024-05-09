@@ -31,4 +31,9 @@ lion-pytorch==0.0.6
 lycoris-lora==0.1.4
 xformers==0.0.22.post7
 # for kohya_ss library
+# fix attempt
+jax==0.2.16
+jaxlib==0.1.68
+optax==0.1.2
+chex==0.1.2
 .
